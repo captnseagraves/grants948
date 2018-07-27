@@ -1,0 +1,25 @@
+{
+  "name": "grants948",
+  "version": "0.0.1",
+  "description": "This repo house the first attempt at creating ERC948 contracts that will underlie the Gitcoin Grant project",
+  "main": "grants948implementation",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/captnseagraves/Grants948Implementation.git"
+  },
+  "author": "Kevin Seagraves",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/captnseagraves/Grants948Implementation/issues"
+  },
+  "homepage": "https://github.com/captnseagraves/Grants948Implementation#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "1.11.0"
+  }
+}
